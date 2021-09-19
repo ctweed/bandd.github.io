@@ -117,7 +117,7 @@ row::after {
     margin-top: 40px;
     padding-top: 50%;
     position: relative;
-    background: url("/assets/img/1.jpg") top center / cover no-repeat;
+    background: url('../img/1.jpg') top center / cover no-repeat;
 }
 
 .subnav li:hover a {
